@@ -1,0 +1,6 @@
+Student_ID,Age,Grade,City,City_First_Letter,city_No_Spaces,Has_Substring_LA,First_name,Last_name,Full_name,Grade_Digits,Vowel Count
+1,25.0,A,New York,N,NewYork,False,ALICE,,ALICE,,2
+2,24.75,B,San Fransico,S,SanFransico,False,BOB,,BOB,,4
+3,22.0,C,Los Angeles,L,LosAngeles,False,CHARLIE,,CHARLIE,,4
+4,28.0,Unknown,Chicago,C,Chicago,False,DAVID,,DAVID,,3
+5,24.0,A,Miami,M,Miami,False,EVA,,EVA,,3
